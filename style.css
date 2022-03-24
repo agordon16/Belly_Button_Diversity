@@ -2,7 +2,7 @@ body {
 
     background-color: #000000;
   }
-  .col-md-12 jumbotron text-center {
+  .jumbotron {
     background-image: url("bacteria.jpg");
     background-size: 100% 100%;
     text-align: center;
